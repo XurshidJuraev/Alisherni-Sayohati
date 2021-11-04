@@ -16,7 +16,7 @@ console.log(howMuchMoneyDoYouThinkHeNeeds);
 
 var UmumiyPul = 870;
 
-if ((UmumiyPul >= "8317488.6") == (UmumiyPul <= "8317488.6")) {
+if ((UmumiyPul >= "870") == (UmumiyPul <= "870")) {
     console.log("Sizning pulingiz hamma harajatlarga yetdi va hisobingizda 0so'm qoldi! “Oq yo’l, Alisher!”");
 }else {
     console.log("Pulingiz yetmadi! “Alisher, ozgina sabr qilish kerak bo’lar ekan.”");
